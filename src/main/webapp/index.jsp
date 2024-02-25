@@ -4,7 +4,7 @@
 </head>
 <body>
 	<h1>Welcome! We are learning DevOps!!! Creatind Jenkins CI-CD pipeline ! </h1>
-        <h2> Update №5 on Feb 25 </h2>
+        <h2> Update №6 on Feb 25 </h2>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
