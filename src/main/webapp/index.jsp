@@ -3,7 +3,10 @@
 <title>Jenkins Sample Project</title>
 </head>
 <body>
-	<h1>Welcome! We are learning DevOps!!! Creatind Simple Jenkins CI-CD pipeline ! </h1>
+	<h1>Welcome! 
+            We are learning DevOps!!! 
+            Creatind Simple Jenkins CI-CD pipeline that running java app in docker! 
+        </h1>
         <h2> Update No  <b>11</b>  on Mar 05 2024 </h2>
         <br>
         <h2> <b> App running from Docker container ! </h2>
